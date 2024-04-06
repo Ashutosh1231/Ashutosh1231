@@ -44,6 +44,9 @@
   <a href="https://www.hackerrank.com/profile/akasat54" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
+  <a href="https://leetcode.com/akasat54/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LeetCode&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo" />
+</a>
 </div>
 
 ###
